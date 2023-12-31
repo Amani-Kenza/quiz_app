@@ -1,0 +1,35 @@
+Done
+1-file JSON.
+Done
+2-html markeup
+Done
+3-add dummy data(on voir les question n les recupere de JSON)\
+Done
+4-create the styling.
+Done
+5-fetch number of question from uestion object.
+Done
+6-show question count+questions category
+Done
+7-show the number of bullets depend on question count.
+Done
+8-set the number for the right and wrong answers.
+Dpne
+9-create countdown timer.
+Done
+10-fetch the questions from the json object.
+Done
+11-show first question.
+Done
+12-check if answer true or false and hide questin and select the next one.
+Done
+13-if the time end,mark the questin wrong and show next questins.
+
+14-add class on bullet after answering the question.
+15-if question finished show the result.
+
+IDEAS
+-Many JSON object and choose language.
+-add many questins and chose only 10.
+-randomize ansewrs.
+

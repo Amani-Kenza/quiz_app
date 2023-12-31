@@ -1,0 +1,67 @@
+[
+    {
+        "title":"1-on commence une page HTML avec:",
+        "answer_1":"<!html>",
+        "answer_2":"<!DOCTYPE html>",
+        "answer_3":"<DOCTYPE !html>",
+        "answer_4":"<html>",
+        "right_answer":"<!DOCTYPE html>"
+
+    },
+    {
+        "title":"2-on peut mettre un lien avec notre fichier css on utilisant :",
+        "answer_1":"<link rel='stylesheet' href='nomfichier.css'>",
+        "answer_2":"<script rel='stylesheet' href='nomfichier.css'>",
+        "answer_3":"<link rel='nomfichier.css'>",
+        "answer_4":"<link rel='import' href='nomfichier.css'>",
+        "right_answer":"<script rel='stylesheet' href='nomfichier.css'>"
+    },
+    {
+        "title":"3-est ce que l'element <img> a l'attribut href:",
+        "answer_1":"vrai",
+        "answer_2":"Tous les éléments ont cette attribut",
+        "answer_3":"faux",
+        "answer_4":"non , c'est pour la balise <a>",
+        "right_answer":"non , c'est pour la balise <a>"
+    },
+    {
+        "title":"4-Parmi ces balises lesquelles sont des balises HTML :",
+        "answer_1":"<img>",
+        "answer_2":"<p>",
+        "answer_3":"<body>",
+        "answer_4":"All the question is right",
+        "right_answer":"All the question is right"
+    },
+    {
+        "title":"5-Parmi ces types d'input lesquelles sont des input du html :",
+        "answer_1":"<text>",
+        "answer_2":"<submit>",
+        "answer_3":"<form>",
+        "answer_4":"All the question is right",
+        "right_answer":"All the question is right"
+    },
+    {
+        "title":"6-quelle est la propriete utilisée pour écrire a l'intérieure d'un input de type text:",
+        "answer_1":"name",
+        "answer_2":"value",
+        "answer_3":"placeholder",
+        "answer_4":"for",
+        "right_answer":"placeholder"
+    },
+    {
+        "title":"7-quelle est la balise utilise pour faire un tableau: ",
+        "answer_1":"<td>",
+        "answer_2":"<table>",
+        "answer_3":"<thead>",
+        "answer_4":"<tbody>",
+        "right_answer":"<table>"
+    },
+    {
+        "title":"8-la balise utilise pour faire un formulaire est: ",
+        "answer_1":"<formula>",
+        "answer_2":"<form>",
+        "answer_3":"<formulaire>",
+        "answer_4":"<farm>",
+        "right_answer":"<form>"
+    }
+]

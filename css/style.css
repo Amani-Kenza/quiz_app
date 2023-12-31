@@ -1,0 +1,132 @@
+body{
+margin: 0;
+}
+header{
+    background-color: rgb(52, 52, 248);
+}
+.content{
+    display: flex;
+    gap: 500px;
+}
+.logo h1{
+    color: pink;
+    font-size: 1.3rem;
+    font-family: 'Brush Script MT', cursive;
+    cursor: pointer;
+}
+.logo{
+    margin-left: 10px;
+    display: flex;
+}
+ul{
+     list-style: none;
+     display: flex;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+}
+li a{
+    color: pink;
+    text-decoration: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 16px 16px;
+    display: block;
+    text-align: center;
+}
+li a:hover{
+color:pink;
+background-color: white;
+}
+.animation-text{
+    text-transform: uppercase;
+    background-image: linear-gradient(
+        -225deg,
+        #231557 0%,
+        #44107a 29%,
+        #ff1361 67%,
+        #fff800 100%
+      );
+      background-size: auto auto;
+     background-clip: border-box;
+     background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    animation: textclip 3s linear infinite;
+    display: inline-block;
+    font-size: 190px;
+}
+@keyframes textclip {
+    to {
+      background-position: 300% center;
+    }
+  }
+.btn-btn{
+    cursor: pointer;
+    color: pink;
+    background-color: white;
+    padding: 16px 35px;
+    border: 1px solid pink;
+    font-weight: bold;
+    font-size: 1.2rem;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-delay: -2s;
+}
+.container{
+    display: flex;
+    gap: 300px;
+}
+.first-section{
+    text-align: center;
+    padding: 70px;
+}
+.img-block{
+    text-align: center;
+    margin-top: 40px;
+    cursor: pointer;
+}
+#def{
+    background-color:  rgb(52, 52, 248);
+    display: flex;
+    margin-top: 40px;
+}
+.definition{
+    font-size: 1.2rem;
+    color: pink;
+    padding: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-top: 20px;
+   
+   
+}
+.btn{
+    text-align: center;
+    padding: 20px;
+    color:rgb(52, 52, 248) ;
+    border:  pink;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 500px;
+}
+footer{
+    background-color: rgb(52, 52, 248);
+    border: 2px solid rgb(52, 52, 248);
+   margin-bottom: 0px;
+   margin-top: 85px;
+}
+.flex{
+    display: flex;
+    gap: 700px;
+    color: pink;
+    font-weight: bold;
+    font-size: 1rem;
+}
+i{
+    color: red;
+}

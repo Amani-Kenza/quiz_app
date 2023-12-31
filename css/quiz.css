@@ -1,0 +1,37 @@
+.container{
+    padding: 10px;
+}
+
+h1{
+    font-size: 1rem;
+    color: rgb(92, 92, 224);
+    margin-left: 290px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    color:rgb(39, 153, 234);
+}
+#rep-bord{
+    border: 1px solid blue;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    cursor: pointer;
+}
+#rep-bord1,#rep-bord2,#rep-bord3,#rep-bord41,#rep-bord42,#rep-bord43,#rep-bord44,#rep-bord51,#rep-bord53,#rep-bord54,#rep-bord63,#rep-bord73,#rep-bord82{
+    border: 1px solid blue;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    cursor: pointer;
+}
+input[type=button]{
+    background-color: green;
+    padding: 10px 40px;
+    border: none;
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 650px;
+    cursor: pointer;
+}
